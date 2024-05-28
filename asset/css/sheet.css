@@ -1,0 +1,44 @@
+body{
+    background: rgb(245, 247, 245);
+    
+    
+}
+
+.container1{
+   
+   margin-top: 5px;
+   position: relative;
+   border:1px solid rgb(194, 190, 190);
+   border-left: 1px solid rgba(189, 186, 186, 0.671);
+   border-right: 1px solid rgba(189, 186, 186, 0.671);
+   background-color: #ffffff;
+}
+.row_form{
+    width: 100%;
+}
+
+    @media (max-width: 575.98px) {
+        .row_form {
+          flex-wrap: wrap;
+        }
+        .row_form .col {
+          flex: 0 0 100%; /* Take full width */
+        }
+    }
+.head{
+    height: 20px;
+    background: linear-gradient(green,yellow,black,yellow,blue);
+}
+.coat{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 1%;
+    position: relative;
+    
+}
+
+
+
+
+

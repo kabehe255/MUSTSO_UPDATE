@@ -48,7 +48,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 </head>
 <body>
 <?php include("../navbars/navbar2.php")?>
-    <div class="container mt-5 py-5">git remote add origin https://github.com/vivuvimalwa/vivi.git
+    <div class="container mt-5 py-5">
         <div class="row justify-content-center">
             <div class="col-md-6">
                 <div class="card">

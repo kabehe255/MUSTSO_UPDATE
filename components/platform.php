@@ -22,7 +22,7 @@
            
             .blog-grid {
                
-                margin-bottom: 150px;
+                margin-bottom: 300px;
             }
         }
 
@@ -39,7 +39,9 @@
             transition: all .2s ease-in-out;
             height: 100%;
             margin-top: 20px;
+           
         }
+        
 
         .blog-grid span {
             color: #292dc2
@@ -206,7 +208,7 @@
                                 </div>
                                 <div class="blog-grid-text p-4">
                                     <h3 class="h5 mb-3"><a href="information.php">MINISTRY OF ACCOMODATION</a></h3>
-                                    <div style="position:relative;margin-left:75%" ><button style="background:#000" class="btn btn-dark  rounded-pill">GO!<i class="fa-solid fa-circle-plus ml-2"></i></button></div>
+                                    <div style="position:relative;margin-left:75%" ><button style="background:#000" class="btn btn-dark  rounded-pill"><a href="information.php" style="text-decoration:none;color:white">GO!</a><i class="fa-solid fa-circle-plus ml-2"></i></button></div>
 
 
 
@@ -223,7 +225,7 @@
                                 </div>
                                 <div class="blog-grid-text p-4">
                                     <h3 class="h5 mb-3"><a href="information.php">MINISTRY OF FOOD AND HEALTH</a></h3>
-                                    <div style="position:relative;margin-left:75%" ><button style="background:#000" class="btn btn-dark  rounded-pill">GO!<i class="fa-solid fa-circle-plus ml-2"></i></button></div>
+                                    <div style="position:relative;margin-left:75%" ><button style="background:#000" class="btn btn-dark  rounded-pill"><a href="information.php" style="text-decoration:none;color:white">GO!</a><i class="fa-solid fa-circle-plus ml-2"></i></button></div>
 
 
 
@@ -239,8 +241,8 @@
                                     </div>
                                 </div>
                                 <div class="blog-grid-text p-4">
-                                    <h3 class="h5 mb-3"><a href="information.php">MINISTRY OF RELIGIOUS</a></h3>
-                                    <div style="position:relative;margin-left:75%" ><button style="background:#000" class="btn btn-dark  rounded-pill">GO!<i class="fa-solid fa-circle-plus ml-2"></i></button></div>
+                                    <h3 class="h5 mb-3"><a href="information.php">      MINISTRY OF RELIGIOUS</a></h3>
+                                    <div style="position:relative;margin-left:75%" ><button style="background:#000" class="btn btn-dark  rounded-pill"><a href="information.php" style="text-decoration:none;color:white">GO!</a><i class="fa-solid fa-circle-plus ml-2"></i></button></div>
 
 
 
@@ -280,7 +282,7 @@
                                 </div>
                                 <div class="blog-grid-text p-4">
                                     <h3 class="h5 mb-3"><a href="information.php">MINISTRY OF LOANS AND GRANTS</a></h3>
-                                    <div style="position:relative;margin-left:75%" ><button style="background:#000" class="btn btn-dark  rounded-pill">GO!<i class="fa-solid fa-circle-plus ml-2"></i></button></div>
+                                    <div style="position:relative;margin-left:75%" ><button style="background:#000" class="btn btn-dark  rounded-pill"><a href="information.php" style="text-decoration:none;color:white">GO!</a><i class="fa-solid fa-circle-plus ml-2"></i></button></div>
 
 
                                 </div>
@@ -296,7 +298,7 @@
                                 </div>
                                 <div class="blog-grid-text p-4">
                                     <h3 class="h5 mb-3"><a href="information.php">MINISTRY OF CONSTITUTION</a></h3>
-                                    <div style="position:relative;margin-left:75%" ><button style="background:#000" class="btn btn-dark  rounded-pill">GO!<i class="fa-solid fa-circle-plus ml-2"></i></button></div>
+                                    <div style="position:relative;margin-left:75%" ><button style="background:#000" class="btn btn-dark  rounded-pill"><a href="information.php" style="text-decoration:none;color:white">GO!</a><i class="fa-solid fa-circle-plus ml-2"></i></button></div>
 
 
 
@@ -313,7 +315,7 @@
                                 </div>
                                 <div class="blog-grid-text p-4">
                                     <h3 class="h5 mb-3"><a href="information.php">MINISTRY OF INFORMATION</a></h3>
-                                    <div style="position:relative;margin-left:75%" ><button style="background:#000" class="btn btn-dark  rounded-pill">GO!<i class="fa-solid fa-circle-plus ml-2"></i></button></div>
+                                    <div style="position:relative;margin-left:75%" ><button style="background:#000" class="btn btn-dark  rounded-pill" ><a href="information.php" style="text-decoration:none;color:white">GO!</a><i class="fa-solid fa-circle-plus ml-2"></i></button></div>
 
 
                                 </div>
